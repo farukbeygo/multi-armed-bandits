@@ -103,14 +103,15 @@ Key Observations:
 
 ## Sample Output
 
-### Cumulative Rewards Over Iterations
-![Cumulative Rewards Plot](path/to/cum_rewards_plot.png)
+
 
 ### Number of Times Each Arm Was Pulled
+- **Random**
+  ![Random](random.png)
 - **Epsilon-Greedy**
-  ![Epsilon-Greedy Arm Pulls](path/to/epsilon_greedy_arms.png)
+  ![Epsilon-Greedy Arm Pulls](epsilon.png)
 - **UCB**
-  ![UCB Arm Pulls](path/to/ucb_arms.png)
+  ![UCB Arm Pulls](ucb_eps.png)
 
 ## Future Enhancements
 
